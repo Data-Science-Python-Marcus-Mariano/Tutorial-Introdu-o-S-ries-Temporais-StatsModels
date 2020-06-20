@@ -1,4 +1,4 @@
-# Tutorial-Introdução-Séries-Temporais-StatsModels
+# Tutorial-Introduction-Time-Series-StatsModels
 
 Tutorial for improve skills: 'Séries Temporais com python/pandas/statsmodels - Parte 01' (ORMaster) by Marcus Mariano
 
@@ -13,10 +13,11 @@ Tutorial for Introduction Time Series in Python with StatsModels.
 **Séries Temporais com python/pandas/statsmodels - Parte 01 [ORMaster.](https://www.youtube.com/playlist?list=PL5fQ3JoS0SZscDaHgXahtx632NMnq5RR-)**
 
 - Builtins
-    -
+    - datetime
 
 - Packages
     - Pandas
+        - to_datetime
     - Numpy
     - matplotlib
     - plotly
